@@ -18,13 +18,13 @@ ___
 
 
 * HTML,CSS,SASS
+* jQuery/JavaScript
+* Responsive Design
 * Object Oriented PHP
 * MySQL
 * LAMP server management
-* JavaScript
-* Responsive Design
 * Google Analytics
-* Adobe Photoshop, Adobe Fireworks, Adobe Illustrator, Adobe InDesign
+* Adobe Photoshop, Adobe Fireworks, Sketch, Adobe Illustrator, Adobe InDesign
 * ExpressionEngine
 * WordPress
 
